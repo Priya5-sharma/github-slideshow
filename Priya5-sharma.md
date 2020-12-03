@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my slide!"
 ---
-MY AWESOME SLIDE
+MY very AWESOME SLIDE
 Use the left arrow to go back!
